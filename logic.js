@@ -17,9 +17,9 @@ const questions = [
     correct: "Thomas Shelby",
   },
   {
-    question:'Гусейн пидор?',
-    answers:['Да','Конечно','Очевидно','Конечно нет'],
-    correct:'Очевидно'
+    question:'What is the best series?',
+    answers:['Peaky Blinders','Breaking Bad','Friends','Bleach'],
+    correct:'Peaky Blinders'
   }
 ];
 
